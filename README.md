@@ -1,5 +1,5 @@
 # solana-test-framework
-Test for review
+Test approve PR permissions
 `solana-test-framework` is build on top of the [`solana-program-test`](https://docs.rs/crate/solana-program-test/latest) crate and it provides a [`BanksClient`](https://docs.rs/solana-banks-client/latest/solana_banks_client/struct.BanksClient.html)-based Proof of Concept framework for BPF programs.
 It extends [`BanksClient`](https://docs.rs/solana-banks-client/latest/solana_banks_client/struct.BanksClient.html),
 [`ProgramTest`](https://docs.rs/solana-program-test/latest/solana_program_test/struct.ProgramTest.html)
